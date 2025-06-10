@@ -1,7 +1,3 @@
-# TrackingApplication
-Simple console based TrackingApplication using File Reader &amp; writer
-
-
 # 🗂️ Java Console Task Manager
 
 A simple **console-based Task Manager** application built using **pure Java**. This project was developed to practice core Java concepts such as **OOP**, **file I/O**, and **basic application structure** — no external libraries, no frameworks, no Maven.
